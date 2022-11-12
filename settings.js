@@ -68,7 +68,7 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "💝" //ur theme emoji
+global.themeemoji = "🤪" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
 
