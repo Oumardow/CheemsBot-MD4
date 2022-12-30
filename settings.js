@@ -68,7 +68,7 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
-globale . themeemoji    =    "🤪🦄,"    //votre thème emoji
+globale . themeemoji     =     "🦄,"     //votre thème emoji
 globale . nom  du  pack   =   "Autocollants Cheems Bot\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 "   // votre nom de pack de filigrane d'autocollant
 globale . author  =  "🦄Dream Guy Xeon"  // votre auteur de filigrane d'autocollant
 
