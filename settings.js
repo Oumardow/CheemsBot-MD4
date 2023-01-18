@@ -55,13 +55,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 globale . vcardowner           = [ '+22372268134 ] // votre numéro de propriétaire'propriétaire
-globale . nom      du      propriétaire      =      "🦄Dream Guy Xeon"      //nom de votre propriétaire  
+globale . nom      du      propriétaire      =      "🦄༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆"      //nom de votre propriétaire  
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['+22372268134']
+global.owner = ['༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆']
 global.ownertag = '+22372268134' //ur tag number
 global.botname = 'Cheems Bot MD V4' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
@@ -70,7 +70,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 globale . themeemoji     =     "🦄,"     //votre thème emoji
 globale . nom  du  pack   =   "Autocollants Cheems Bot\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 "   // votre nom de pack de filigrane d'autocollant
-globale . author  =  "🦄Dream Guy Xeon"  // votre auteur de filigrane d'autocollant
+globale . author  =  "🦄༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆"  // votre auteur de filigrane d'autocollant
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['+223 72 26 81 34'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
